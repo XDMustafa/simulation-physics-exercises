@@ -13,7 +13,7 @@ $$ f(v) = a v^2 \exp(-b v^2) $$
 
 where *a* and *b* are constants.  The problem statement also suggests that the best fit curve obtained using this function will be too broad compared to the experimental data.
 
-
+![Plot](https://github.com/XDMustafa/simulation-physics-exercises/blob/main/Mathematical%20Methods%20using%20Python%20Applications%20in%20Physics%20and%20Engineering/Plot.png)
 
 **Implementation:**
 
